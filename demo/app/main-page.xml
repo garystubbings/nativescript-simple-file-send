@@ -1,0 +1,5 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" class="page">
+    <StackLayout horizontalAlignment="stretch" verticalAlignment="center">
+        <Button text="Save File" tap="{{ onTap }}" class="btn btn-primary"></Button>
+    </StackLayout>
+</Page>

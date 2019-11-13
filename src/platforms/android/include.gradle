@@ -1,0 +1,10 @@
+android {
+		
+}
+
+repositories {
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:27.0.2'
+}
